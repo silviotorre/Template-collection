@@ -1,0 +1,114 @@
+*{
+	font-family:Tahoma, Verdana, Helvetica, sans-serif; 
+	font-size:11px; color:#D4D1CD; background-color:inherit;
+}
+body
+{
+	padding:0;	margin:0; background-color:#000000;
+	background-image:url(images/background-image.jpg);
+	background-repeat:no-repeat; color:#fff;
+}
+div.spacer
+{
+	clear: both;
+}
+img {
+	border:none;
+}
+a
+{
+	color:#ffffff;
+	text-decoration:none;
+	padding:0 1px 0 1px;
+	background-color:inherit;
+}
+a:hover
+{
+	text-decoration:underline;
+}
+p
+{
+	margin:0 0 0 0;
+	padding:0 0 0 0;
+}
+ul
+{
+	list-style-type:none;
+	padding:10px 0 0 0px;
+	margin:0 0 0 0;
+	float:left;
+	width:200px;
+}
+li
+{
+	list-style-type:none;
+	background-image:url(images/bullets.gif);
+	background-repeat:no-repeat;
+	background-position:0 50%;
+	padding:3px 5px 3px 18px;
+}
+.left-div-wrapper
+{
+	width:auto;
+	float:left;
+	margin-top:7px;
+}
+.right-div-wrapper
+{
+	width:50%;
+	float:left;
+}
+.logo-image
+{
+	padding:49px 17px 0 9px;
+	float:left;
+}
+.logo
+{
+	padding:66px 17px 0 9px;
+	float:left;
+}
+.menu
+{
+	padding-left:160px;
+}
+.heading
+{
+	padding:17px 0 17px 0px;
+}
+.divider-body
+{
+	margin:0 15px 0 0px;
+	border-bottom:1px solid #999999;
+}
+.game-image
+{
+	padding-top:25px;
+	padding-right:15px;
+	float:left;
+}
+.game-image a
+{
+	padding-top:5px;
+	padding-right:15px;
+	float:left;
+	color:#ff0000;
+	background-color:inherit;
+}
+.game-image a.pic {
+	padding:0; float:none;
+}
+.bullets-block
+{
+	width:200px;
+	float:left;
+}
+.ubi-logo
+{
+	padding-left:50px;
+}
+.footer
+{
+	padding:22px 0 22px 0; background-color:#000;
+	color:#CCCCCC; line-height:18px;
+}
